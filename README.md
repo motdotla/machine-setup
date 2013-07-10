@@ -17,3 +17,6 @@ This is how I setup my machine.
 - [ ] Install Quicksilver [+](http://qsapp.com/)
 - [ ] Install iaWriter [+](iawriter.com)
 - [ ] Install Smart Timer [+](https://itunes.apple.com/us/app/smart-timer/id436971294)
+- [ ] Install Flux [+](http://justgetflux.com/)
+- [ ] Install your dotfiles [+](http://blog.smalleycreative.com/tutorials/using-git-and-github-to-manage-your-dotfiles/)
+- [ ] Setup your vimrc with vundle and ctrlp [+](http://www.vim.org/scripts/script.php?script_id=3458) [+](https://github.com/kien/ctrlp.vim)
