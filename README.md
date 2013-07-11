@@ -1,6 +1,6 @@
 # machine-setup
 
-This is how I setup my machine.
+This is how I setup my machine. It is running OS X 10.8.4.
 
 - [ ] Name your computer. I name my machines with the last name of a former US President [+](http://osxdaily.com/2007/02/15/changing-your-macs-computer-name/)
 - [ ] Install Chrome
@@ -25,3 +25,6 @@ This is how I setup my machine.
 - [ ] Install HipChat [+](https://www.hipchat.com/)
 - [ ] Install GoogleDrive [+](https://drive.google.com)
 - [ ] Install Transmit [+](https://www.panic.com/transmit/)
+- [ ] Install Homebrew [+](http://brew.sh/)
+- [ ] Install chruby using brew [+](https://github.com/postmodern/chruby)
+
