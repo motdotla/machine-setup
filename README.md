@@ -13,7 +13,7 @@ This is how I setup my machine.
 - [ ] Install Dropbox [+](https://www.dropbox.com)
 - [ ] Install Git with GitHub for Mac [+](http://mac.github.com/)
 - [ ] Install oh-my-zsh [+](https://github.com/robbyrussell/oh-my-zsh)
-- [ ] Change terminal to have 90% opacity and no blur. It's convenient to be able to see through the terminal to read some text you might be typing.
+- [ ] Change terminal to have 90% opacity and no blur. It's convenient read text while typing.
 - [ ] Install Quicksilver [+](http://qsapp.com/)
 - [ ] Install iaWriter [+](iawriter.com)
 - [ ] Install Smart Timer [+](https://itunes.apple.com/us/app/smart-timer/id436971294)
