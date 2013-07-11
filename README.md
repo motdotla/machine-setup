@@ -31,3 +31,4 @@ This is how I setup my machine. It is running OS X 10.8.4.
 - [ ] Set usr local permissions - sudo chown -R $(whoami) /usr/local
 - [ ] Install chruby using brew [+](https://github.com/postmodern/chruby)
 - [ ] Install rubys [+](https://github.com/postmodern/chruby/wiki/Ruby)
+- [ ] Install nodejs [+](http://nodejs.org/)
