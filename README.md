@@ -22,4 +22,5 @@ This is how I setup my machine.
 - [ ] Setup your vimrc with vundle and ctrlp [+](http://www.vim.org/scripts/script.php?script_id=3458) [+](https://github.com/kien/ctrlp.vim)
 - [ ] Generate ssh key [+](https://help.github.com/articles/generating-ssh-keys) (or you can just use the key given from installing Git with Github)
 
+
 - [ ] Install Box.com [+](https://www.box.com/download-box-sync/)
