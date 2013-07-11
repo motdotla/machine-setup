@@ -24,3 +24,4 @@ This is how I setup my machine.
 - [ ] Install Box.com [+](https://www.box.com/download-box-sync/)
 - [ ] Install HipChat [+](https://www.hipchat.com/)
 - [ ] Install GoogleDrive [+](https://drive.google.com)
+- [ ] Install Transmit [+](https://www.panic.com/transmit/)
