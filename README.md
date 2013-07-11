@@ -27,6 +27,7 @@ This is how I setup my machine. It is running OS X 10.8.4.
 - [ ] Install Transmit [+](https://www.panic.com/transmit/)
 - [ ] Install Homebrew [+](http://brew.sh/)
 - [ ] Install XCode [+](https://developer.apple.com/xcode/)
+- [ ] Install XCode command line tools [+](http://satishgandham.com/2012/04/make-command-not-found-in-mac-osx/)
 - [ ] Set usr local permissions - sudo chown -R $(whoami) /usr/local
 - [ ] Install chruby using brew [+](https://github.com/postmodern/chruby)
-- [ ] Install XCode command line tools [+](http://satishgandham.com/2012/04/make-command-not-found-in-mac-osx/)
+- [ ] Install rubys [+](https://github.com/postmodern/chruby/wiki/Ruby)
