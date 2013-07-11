@@ -28,4 +28,4 @@ This is how I setup my machine. It is running OS X 10.8.4.
 - [ ] Install Homebrew [+](http://brew.sh/)
 - [ ] Install XCode [+](https://developer.apple.com/xcode/)
 - [ ] Install chruby using brew [+](https://github.com/postmodern/chruby)
-
+- [ ] Install XCode command line tools [+](http://satishgandham.com/2012/04/make-command-not-found-in-mac-osx/)
