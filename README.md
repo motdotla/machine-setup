@@ -23,3 +23,4 @@ This is how I setup my machine.
 - [ ] Generate ssh key [+](https://help.github.com/articles/generating-ssh-keys) (or you can just use the key given from installing Git with Githu)
 - [ ] Install Box.com [+](https://www.box.com/download-box-sync/)
 - [ ] Install HipChat [+](https://www.hipchat.com/)
+- [ ] Install GoogleDrive [+](https://drive.google.com)
