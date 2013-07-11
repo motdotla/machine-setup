@@ -20,3 +20,4 @@ This is how I setup my machine.
 - [ ] Install Flux [+](http://justgetflux.com/)
 - [ ] Install your dotfiles [+](http://blog.smalleycreative.com/tutorials/using-git-and-github-to-manage-your-dotfiles/)
 - [ ] Setup your vimrc with vundle and ctrlp [+](http://www.vim.org/scripts/script.php?script_id=3458) [+](https://github.com/kien/ctrlp.vim)
+- [ ] Generate ssh key [+](https://help.github.com/articles/generating-ssh-keys) (or you can just use the key given from installing Git with Github)
