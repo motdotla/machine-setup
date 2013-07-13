@@ -33,3 +33,4 @@ This is how I setup my machine. It is running OS X 10.8.4.
 - [ ] Install rubys [+](https://github.com/postmodern/chruby/wiki/Ruby)
 - [ ] Install nodejs [+](http://nodejs.org/)
 - [ ] Install Skype [+](http://www.skype.com/en/)
+- [ ] Install Heroku Toolbelt [+](https://toolbelt.heroku.com/)
